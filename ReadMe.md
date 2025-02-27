@@ -20,7 +20,7 @@ I'm a programmer with a passion for exploring the darker side of technology. I d
   + ARM Development (C/C++) 💻
   + Raspberry PI Development (C++/Python) 🍓
   + Linux Systems 🐧
-  + Databases (MySQL, PHPMyAdmin) 📊
+  + Databases (MySQL, PHPMyAdmin, MongoDB, etc) 📊
 * **🔌 Hardware Skills:**
   + Electronics 💡
   + Microcontrollers 🤖
